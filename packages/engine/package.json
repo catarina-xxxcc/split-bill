@@ -1,0 +1,16 @@
+{
+  "name": "@split/engine",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "纯计算内核：分账 / 汇率折算 / 余额 / 债务简化",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.3",
+    "vitest": "^2.1.4"
+  }
+}

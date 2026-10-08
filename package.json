@@ -1,0 +1,8 @@
+{
+  "name": "split",
+  "private": true,
+  "workspaces": [
+    "packages/*",
+    "app"
+  ]
+}
